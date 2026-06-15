@@ -1,2 +1,2 @@
-Exercise 3
-	Make a program that read the student three grades. After, show the final grade and if the student got approved or not. In case of not, tell how many points are left to be approved (60 in the minimum)
+Exercise 4
+	Make a program that reads the dollar exchange rate and then a value in dollars to be bought. Tell how many reais it will be payed considering a 6% IOF abover the value in dolar
