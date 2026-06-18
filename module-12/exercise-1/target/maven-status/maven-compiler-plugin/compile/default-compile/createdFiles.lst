@@ -1,0 +1,5 @@
+com/example/application/Main.class
+com/example/entities/enums/WorkerLevel.class
+com/example/entities/Department.class
+com/example/entities/HourContract.class
+com/example/entities/Worker.class
