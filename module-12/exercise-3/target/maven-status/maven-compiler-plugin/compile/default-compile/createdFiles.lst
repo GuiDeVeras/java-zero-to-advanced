@@ -1,0 +1,6 @@
+com/example/application/Main.class
+com/example/entities/Order.class
+com/example/entities/Product.class
+com/example/entities/OrderItem.class
+com/example/entities/enums/OrderStatus.class
+com/example/entities/Client.class
