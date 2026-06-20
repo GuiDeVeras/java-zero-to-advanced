@@ -1,0 +1,4 @@
+com/example/application/Main.class
+com/example/entities/Product.class
+com/example/entities/UsedProduct.class
+com/example/entities/ImportedProduct.class
