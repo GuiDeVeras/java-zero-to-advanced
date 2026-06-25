@@ -1,0 +1,3 @@
+com/example/model/entities/Account.class
+com/example/application/Main.class
+com/example/model/exceptions/DomainException.class
