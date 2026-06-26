@@ -1,0 +1,7 @@
+com/example/model/entities/Invoice.class
+com/example/model/entities/Vehicle.class
+com/example/model/services/TaxService.class
+com/example/application/Main.class
+com/example/model/services/RentalService.class
+com/example/model/services/BrazilTaxService.class
+com/example/model/entities/CarRental.class

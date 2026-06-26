@@ -1,0 +1,5 @@
+com/example/model/entities/InvoiceTest.class
+com/example/model/entities/CarRentalTest.class
+com/example/model/services/BrazilTaxServiceTest.class
+com/example/model/entities/VehicleTest.class
+com/example/model/services/RentalServiceTest.class
