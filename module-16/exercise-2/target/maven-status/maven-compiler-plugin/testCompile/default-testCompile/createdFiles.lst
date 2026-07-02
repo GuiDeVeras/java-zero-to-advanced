@@ -1,0 +1,4 @@
+com/example/model/entities/ContractTest.class
+com/example/model/entities/InstallmentTest.class
+com/example/model/services/PaypalServiceTest.class
+com/example/model/services/ContractServiceTest.class

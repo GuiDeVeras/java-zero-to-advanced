@@ -1,0 +1,6 @@
+com/example/application/Main.class
+com/example/model/services/OnlinePaymentService.class
+com/example/model/services/ContractService.class
+com/example/model/entities/Installment.class
+com/example/model/services/PaypalService.class
+com/example/model/entities/Contract.class
